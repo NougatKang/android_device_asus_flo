@@ -1,0 +1,12 @@
+[
+ {
+   "remote": "github",
+   "repository": "NougatKang/kernel_asus_flo",
+   "target_path": "kernel/asus/flo",
+   "branch":"nougat"
+ },
+ {
+   "repository": "android_external_stlport",
+   "target_path": "external/stlport"
+ }
+]
